@@ -6,4 +6,6 @@ CARE's medical data is not limited to data exchanged on the web or protocols for
 
 ## Links
 [Official website](https://www.wellnesscares.io/)  
-[Twitter](https://twitter.com/carecoinfo)
+[Twitter](https://twitter.com/carecoinfo)  
+[Telegram](https://t.me/care_official)  
+[CareCoin | Etherscan](https://etherscan.io/token/0x329cf160f30d21006bcd24b67eade561e54cde4c)
